@@ -1,0 +1,19 @@
+/*****Página de Login***********/
+.box-login{
+    margin: 20px auto;
+    padding: 10px;
+    width: 600px;
+    height: auto;
+    background-color: #ccc;
+}
+
+/********Página Home**********/
+
+/******Cabeçario e Menu**********/
+.filtro{
+    margin: 10px auto;
+}
+.box-cad-user{
+    margin: 20px auto;
+    padding: 15px 10px;
+}
