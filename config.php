@@ -16,7 +16,7 @@ define('USER', 'root');
 define('PASSWORD', '');
 define('DBNAME', 'crud');
 
-define('PATH_DEFAULT','http://localhost/Servidor/Meus%20Projetos/Teste/');
+define('PATH_DEFAULT','http://localhost/Servidor/Meus%20Projetos/CRUD/');
 
 define('BASE_DIR',__DIR__);
 
